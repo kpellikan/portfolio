@@ -33,7 +33,7 @@
     <div id="wrap">
         <!-- wrap start -->
          <!-- Header Area -->
-      <section id="home" class="header-area">
+        <section id="home" class="header-area">
             <div class="container-fluid">
                 <div class="col-sm-2 logo-container">
                     <div class="logo">
@@ -59,17 +59,32 @@
         <!-- Portfolio Area -->
         <section class="portfolio-area">
             <div class="container">
-                <div class="col-md-7">
+                 <!-- Portfolio Details Area -->
+            <div class="col-md-7">
                 <div class="portfolio-details">
-                    <img src="images/portfolio/1.jpg" alt="">
+                    <div id="portfolio-carousel" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <a href=""><img class="img-responsive" src="images/portfolio/1.jpg" alt=""></a>
+                            </div>
+                            <div class="item">
+                                <a href=""><img class="img-responsive" src="images/portfolio/2.jpg" alt=""></a>
+                            </div>
+                            <div class="item">
+                                <a href=""><img class="img-responsive" src="images/portfolio/3.jpg" alt=""></a>
+                            </div>
+                        </div>
+                        <a class="project-control-left" href="#portfolio-carousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+                        <a class="project-control-right" href="#portfolio-carousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
+                    </div>
                 </div>
-                </div>
+            </div>
             <div class="col-md-5">
                 <div class="portfolio-details">
                     <p class="sub-heading">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                     <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
                     <ul>
-                            <li><span>Category :</span>Html, Css, Branding
+                           <li> <span>Category :</span>Html, Css, Branding
                         </li>
                         <li>
                             <span>Project url :</span><a href="#">themeforest.net/user/tarikz</a></li>
@@ -86,7 +101,6 @@
                     </span>
             </div>
             <!-- Portfolio Details Area Ends -->
-        </div>
         </section>
         <!-- Portfolio Area Ends -->
                 <!-- Footer Area -->
