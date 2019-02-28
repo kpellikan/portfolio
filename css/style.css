@@ -1414,7 +1414,7 @@ section {
 }
 
 .portfolio-details > ul > li {
-    border-bottom: 1px solid #eeeeee;
+    /*border-bottom: 1px solid #eeeeee;*/
     margin-bottom: 10px;
     padding-bottom: 10px;
     float: left;
