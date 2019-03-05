@@ -26,20 +26,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src="js/modernizr.js"></script>
-    <style type="text/css">
-        svg {
-            width: 600px;
-            height: 400px;
-            position: absolute;
-        }
-
-        path {
-            stroke: #24dcea;
-            stroke-width: 4px;
-            stroke-linecap: round;
-            fill: none;
-        }
-    </style>
 </head>
 
 <body>
@@ -71,13 +57,9 @@
         </section>
         <!-- Header Area ends -->
         <!-- Background Area -->
-        <svg>
-  <path d="M10,10 L50,100 L90,50"></path>
-</svg>
         <section class="background-area img-bg">
             <div class="welcome-text">
                 <h1><span class="tarikzsign">español </span></h1>
-                <p>We live, work & play </p>
             </div> 
         </section>
         <!-- Background Area ends -->
@@ -92,36 +74,6 @@
     <script src="js/isotope.pkgd.min.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/custom.js"></script>
-    <script type="text/javascript">
-        let xs = []
-        for (var i = 0; i <= 500; i++) {xs.push(i)}
-
-            let t = 0
-
-        function animate() {
-
-            let points = xs.map(x => {
-
-                let y = 200 + 10 * Math.sin((x + t) / 15)
-
-                return [x, y]
-            })
-
-            let path = "M" + points.map(p => {
-
-                return p[0] + "," + p[1]
-
-            }).join(" L")
-
-            document.querySelector("path").setAttribute("d", path)
-
-            t += .5
-
-            requestAnimationFrame(animate)
-        }
-
-        animate()
-    </script>
 </body>
 
 </html>
