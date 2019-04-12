@@ -2542,7 +2542,7 @@ label {
     .menu-open,
     .menu-close {
         display: block;
-        color: #FFF;
+        color: #333;
         cursor: pointer;
         right: 50px;
         position: fixed;
