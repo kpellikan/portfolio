@@ -1997,7 +1997,7 @@ h4.package {
 }
 
 .blog-articles-control .ctrl-article-prev {
-    float: left;
+    float: center;
 }
 
 .blog-articles-control .ctrl-article-next {
