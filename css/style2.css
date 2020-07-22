@@ -2625,8 +2625,7 @@ label {
     .logo-container,
     .menu-container {
         float: left;
-        /*width: 50%;*/
-        width: 70%
+        width: 50%;
     }
     .container {
         padding-left: 30px;
