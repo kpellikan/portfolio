@@ -71,7 +71,7 @@ a {
 }
 
 a:hover {
-    color: #24dcea;
+    color: #badbc3;
     text-decoration: none
 }
 
@@ -168,7 +168,7 @@ input:-webkit-autofill:focus {
 .btn-dark.inverted {
     background-color: #222222;
     border-color: #222222;
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .btn-dark.inverted:hover {
@@ -207,7 +207,7 @@ input:-webkit-autofill:focus {
 }
 
 .theme-color {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .noPadding {
@@ -294,7 +294,7 @@ section {
     position: relative;
     width: 50px;
     height: 1px;
-    background-color: #24dcea;
+    background-color: #badbc3;
     margin: 0 0 0 15px;
 }
 
@@ -310,7 +310,7 @@ section {
     display: inline-block;
     width: 5px;
     height: 5px;
-    background-color: #24dcea;
+    background-color: #badbc3;
     border-radius: 50%;
 }
 
@@ -395,7 +395,7 @@ section {
 }
 
 .preloader .anim {
-    color: #24dcea;
+    color: #badbc3;
     font-size: 60px;
     position: absolute;
     top: 50%;
@@ -477,7 +477,7 @@ section {
 }
 
 .contact-menu ul li a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .contact-menu ul li:first-child::after {
@@ -510,7 +510,7 @@ section {
 }
 
 .social-menu ul li a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 
@@ -595,7 +595,7 @@ section {
 }
 
 .sub-menu ul li a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .sub-menu.light ul li a {
@@ -766,11 +766,11 @@ section {
 .blog .welcome-text span a {
     color: #FFF;
     font-style: italic;
-    border-bottom: 1px dashed #24dcea;
+    border-bottom: 1px dashed #badbc3;
 }
 
 .tarikzsign {
-    color: #24dcea;
+    color: #badbc3;
     font-size: 100px;
     margin-top: 10px;
     position: relative;
@@ -911,7 +911,7 @@ section {
 }
 
 .service-box i {
-    color: #24dcea;
+    color: #badbc3;
     font-size: 36px;
 }
 
@@ -1039,7 +1039,7 @@ section {
 }
 
 .team-social ul li a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 #tarikzteam.v2 .team-member {
@@ -1185,7 +1185,7 @@ section {
 }
 
 .fun-facts.dark-bg .numbers {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 
@@ -1261,7 +1261,7 @@ section {
 }
 
 #filters > li:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .portfolio-container {
@@ -1429,7 +1429,7 @@ section {
 }
 
 .portfolio-details > ul > li > a {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .project-control-right,
@@ -1481,7 +1481,7 @@ section {
 }
 
 .price-table i {
-    color: #24dcea;
+    color: #badbc3;
     font-size: 68px;
     opacity: 0.7;
     position: absolute;
@@ -1560,7 +1560,7 @@ h4.package {
 .testimonials-area .owl-theme .owl-dots .owl-dot.active span,
 .testimonials-area .owl-theme .owl-dots .owl-dot:hover span {
     width: 50px;
-    background: #24dcea;
+    background: #badbc3;
 }
 
 #tarikztestimonial.owl-theme .owl-nav {
@@ -1624,7 +1624,7 @@ h4.package {
 }
 
 .client-info h4 {
-    color: #24dcea;
+    color: #badbc3;
     letter-spacing: 3px;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -1791,7 +1791,7 @@ h4.package {
 }
 
 .read-more a {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .read-more {
@@ -1822,13 +1822,13 @@ h4.package {
 .pagination > li > a, .pagination > li > span {
     background-color: #333;
     border: #787878;
-    color: #24dcea;
+    color: #badbc3;
     padding: 10px 15px;
 }
 
 .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
     background-color: #1f1f1f;
-    color: #24dcea; 
+    color: #badbc3; 
 }
 
 .pagination > li:first-child > a, .pagination > li:first-child > span {
@@ -1862,7 +1862,7 @@ h4.package {
 }
 
 .comment-number a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .blog-articles-control, .blog-author-info, .blog-article-comments {
@@ -1899,7 +1899,7 @@ h4.package {
 }
 
 .author-name span {
-    color: #24dcea;
+    color: #badbc3;
     float: right;
     font-size: 10px;
     font-weight: 400;
@@ -1933,7 +1933,7 @@ h4.package {
 }
 
 .author-social ul li a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .blog-article-comments .blog-article-comments-list {
@@ -1971,7 +1971,7 @@ h4.package {
 }
 
 .blog-article-comments .comment-content .reply a {
-    color: #24dcea;
+    color: #badbc3;
     margin: 5px 0;
     font-size: 15px;
     display: inline-block;
@@ -2089,7 +2089,7 @@ h4.package {
 }
 
 .contact_content i {
-    color: #24dcea;
+    color: #badbc3;
     padding: 0 15px 0 0;
     text-align: center;
 }
@@ -2279,7 +2279,7 @@ label {
 }
 
 .widget h3:after {
-    background-color: #24dcea;
+    background-color: #badbc3;
     content: '';
     height: 2px;
     left: 0;
@@ -2306,7 +2306,7 @@ label {
 }
 
 .widget .footer-links a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .widget .latest-posts li {
@@ -2330,7 +2330,7 @@ label {
 }
 
 .widget .latest-posts li span i {
-    color: #24dcea;
+    color: #badbc3;
     margin-right: 10px
 }
 
@@ -2380,7 +2380,7 @@ label {
 }
 
 .btn-subscribe i {
-    color: #24dcea;
+    color: #badbc3;
     font-size: 18px;
 }
 
@@ -2394,7 +2394,7 @@ label {
 }
 
 .footer-social a:hover {
-    color: #24dcea;
+    color: #badbc3;
 }
 
 .footer-bottom {
@@ -2418,7 +2418,7 @@ label {
 
 @media only screen and (min-width: 769px) {
     .main-menu > ul > li > a:before {
-        background-color: #24dcea;
+        background-color: #badbc3;
         content: '';
         height: 2px;
         left: 0;
@@ -2428,7 +2428,7 @@ label {
         width: 0;
     }
     .main-menu > ul > li > a:hover:before {
-        background-color: #24dcea;
+        background-color: #badbc3;
         content: '';
         height: 2px;
         left: 0;
